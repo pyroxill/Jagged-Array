@@ -14,4 +14,4 @@ The program declares a jagged array containing three rows:
 - Forenames (Anna, Jones, Ian)
 - Surnames (Smith, Johnson, Brown)
 
-\nIt then accesses elements from each row to form and display their full names.
+It then accesses elements from each row to form and display their full names.

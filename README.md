@@ -10,7 +10,7 @@ A simple console application built using C# that demonstrates the use of jagged 
 ## How It Works
 The program declares a jagged array containing three rows:
 
-Titles (Mr, Mrs, Ms)
-Forenames (Anna, Jones, Ian)
-Surnames (Smith, Johnson, Brown)
+- Titles (Mr, Mrs, Ms)
+- Forenames (Anna, Jones, Ian)
+- Surnames (Smith, Johnson, Brown)
 It then accesses elements from each row to form and display their full names.
